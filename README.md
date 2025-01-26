@@ -22,3 +22,6 @@ This project is a fully responsive e-commerce landing page built using HTML, CSS
    ```bash
    git clone https://github.com/sharmadishant04/shopping-landing-page.git
     ```
+
+## Landing page
+![Landing page](images/Landingpage.png)
