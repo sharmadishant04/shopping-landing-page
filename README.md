@@ -1,4 +1,4 @@
-# E-commerce Landing Page
+# E-commerce Landing Page**
 
 This project is a fully responsive e-commerce landing page built using HTML, CSS, and JavaScript. It is designed to highlight trending fashion items, categories, and user interactions for a seamless shopping experience.
 
